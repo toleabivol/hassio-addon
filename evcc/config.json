@@ -3,7 +3,7 @@
     "version": "0.123.2",
     "slug": "evcc",
     "description": "EV Charge Controller!",
-    "url": "https://github.com/toleabivol/evcc/tree/tolea",
+    "url": "https://github.com/toleabivol/evcc",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "startup": "application",
     "panel_icon": "mdi:ev-station",
